@@ -10,7 +10,7 @@ profile:
   address: >
     <p>Physics Department</p>
     <p>Sacred Heart College, Thevara</p>
-    <p>KOchi, Kerala, IN</p>
+    <p>Kochi, Kerala, IN</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
