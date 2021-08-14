@@ -1,4 +1,4 @@
-# -----------------------------------------------------------------------------
+ # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: matgeor # your GitHub user name
+github_username: matgeor# your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: @mathewgeorgem # your Twitter handle
 linkedin_username: mathew-george-6bb7b21b8 # your LinkedIn user name
@@ -60,7 +60,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: mathewgeorge.shcollege.ac.in # work page URL
+work_url: https://mathewgeorge.shcollege.ac.in/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
