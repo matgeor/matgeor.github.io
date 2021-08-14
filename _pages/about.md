@@ -2,20 +2,21 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Sacred Heart College, Thevara</a>. Kochi, IN.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Physics</p>
-    <p>Sacred Heart College Thevara</p>
-    <p>Kochi</p>
+    <p>Physics Department, </p>
+    <p>Sacred Heart College, Thevara</p>
+    <p>Kochi, KL, India</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I work as an Assistant Professor at the Department of Physics at [Sacred Heart College](www.shcollege.ac.in), Thevara, Kochi, India.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
