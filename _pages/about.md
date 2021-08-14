@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Physics Department</p>
-    <p>Sacred Heart College, Thevara</p>
-    <p>Kochi, Kerala, IN</p>
+    <p>Physics</p>
+    <p>Sacred Heart College Thevara</p>
+    <p>Kochi</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
