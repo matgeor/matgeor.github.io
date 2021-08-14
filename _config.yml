@@ -54,13 +54,13 @@ gitlab_username: # your GitLab user name
 twitter_username: @mathewgeorgem # your Twitter handle
 linkedin_username: mathew-george-6bb7b21b8 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-7705-681X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://mathewgeorge.shcollege.ac.in # work page URL
+work_url: mathewgeorge.shcollege.ac.in # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
