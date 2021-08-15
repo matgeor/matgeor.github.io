@@ -16,7 +16,15 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a faculty member at Department of Physics at [Sacred Heart College](www.shcollege.ac.in), Thevara, Kochi, India.
+Thanks for stepping by, my website.
+
+I am a faculty member at Department of Physics at [Sacred Heart College](www.shcollege.ac.in), Thevara, Kochi, India, where I teach UG and PG students.
+
+# Previously
+Worked as Assistant Professor at Physics Department of [CMS College](www.cmscollege.ac.in), Kottayam and prior to that as M.Phil. Physics cordinator at [St. Berchmans' College, Changanacherry](www.sbcollege.ac.in).
+
+# Background
+I did my Ph.D. at [University of Paderborn](www.upb.de), Germany in the area of thulium doped titanium waveguide lasers, in lithium niobate under the guidance of [Prof. Wolfgang Sohler](https://physik.uni-paderborn.de/en/alumni/sohler).
 
 
 <!--  
