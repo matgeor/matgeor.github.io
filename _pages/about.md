@@ -20,10 +20,10 @@ Thanks for stepping by, my website.
 
 I am a faculty member at Department of Physics at [Sacred Heart College](www.shcollege.ac.in), Thevara, Kochi, India, where I teach UG and PG students.
 
-# Previously
+<h2>Previously</h2>
 Worked as Assistant Professor at Physics Department of [CMS College](www.cmscollege.ac.in), Kottayam and prior to that as M.Phil. Physics cordinator at [St. Berchmans' College, Changanacherry](www.sbcollege.ac.in).
 
-# Background
+<h2>Background</h2>
 I did my Ph.D. at [University of Paderborn](www.upb.de), Germany in the area of thulium doped titanium waveguide lasers, in lithium niobate under the guidance of [Prof. Wolfgang Sohler](https://physik.uni-paderborn.de/en/alumni/sohler).
 
 
