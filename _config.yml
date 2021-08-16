@@ -153,8 +153,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: George
-  first_name: [Mathew]
+  #last_name: George
+  #first_name: [Mathew]
 
   style: apa
   locale: en
