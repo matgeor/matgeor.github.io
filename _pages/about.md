@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink:
 description: <a href="#">Assistant Professor</a>, Physics.
 
 profile:
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Thank you for stepping by, my website.
 
-I am a faculty member at Department of Physics at [Sacred Heart College](www.shcollege.ac.in), Thevara, Kochi, India, where I teach UG and PG students.
+I am a faculty member at Department of Physics of [Sacred Heart College](www.shcollege.ac.in), Thevara, Kochi, India, where I teach UG and PG students.
 
 <h3>Previously</h3>
 Worked as Assistant Professor at Physics Department of [CMS College](www.cmscollege.ac.in), Kottayam and prior to that as M.Phil. Physics cordinator at [St. Berchmans' College, Changanacherry](www.sbcollege.ac.in).
