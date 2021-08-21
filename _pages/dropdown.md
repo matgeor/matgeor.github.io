@@ -2,7 +2,7 @@
 layout: page
 title: submenus
 nav: true
-dropdown: false
+dropdown: true
 children: 
     - title: publications
       permalink: /publications/
