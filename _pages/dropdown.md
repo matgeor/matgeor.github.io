@@ -1,9 +1,8 @@
 ---
-# to enable remove this line.
 layout: page
 title: submenus
 nav: true
-dropdown: true
+dropdown: false
 children: 
     - title: publications
       permalink: /publications/
