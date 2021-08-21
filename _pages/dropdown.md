@@ -1,4 +1,5 @@
 ---
+# to enable remove this line.
 layout: page
 title: submenus
 nav: true
