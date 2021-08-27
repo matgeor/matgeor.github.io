@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink:  \
+permalink: /
 description: <a href="#">Assistant Professor</a>, Physics.
 
 profile:
