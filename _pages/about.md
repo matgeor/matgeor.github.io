@@ -16,8 +16,7 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Thank you for stepping by, my website. <a href="http://www.shcollege.ac.in/" target="_blank">Sacred Heart College</a>
-
+Thank you for stepping by, my website. 
 
 I am a faculty member at Department of Physics of <a href="http://www.shcollege.ac.in/" target="_blank">Sacred Heart College</a>, Thevara, Kochi, India, where I teach UG and PG students.
 
