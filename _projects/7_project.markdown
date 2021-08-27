@@ -10,11 +10,10 @@ category: fun
 
 
 
-<iframe scrolling="no" title="Potentiometer HIgh Range Voltmeter" src="https://www.geogebra.org/material/iframe/id/cvx537sm/width/700/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="400px" height="600px" style="border:0px;"> </iframe>
-
+<iframe scrolling="no" title="Potentiometer HIgh Range Voltmeter" src="https://www.geogebra.org/material/iframe/id/cvx537sm/width/699/height/549/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="699px" height="549px" style="border:0px;"> </iframe>
 <div id="Container"
      style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-     <iframe scrolling="no" title="Potentiometer HIgh Range Voltmeter" src="https://www.geogebra.org/material/iframe/id/cvx537sm/width/700/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="100%" height="100%"  frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
+     <iframe scrolling="no" title="Potentiometer HIgh Range Voltmeter" src="https://www.geogebra.org/material/iframe/id/cvx537sm/width/700/height/550/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="90%" height="100%"  frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0"></iframe>
 </div>
 
 Every project has a beautiful feature showcase page.
