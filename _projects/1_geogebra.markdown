@@ -1,11 +1,16 @@
 ---
 layout: page
 title: Physics With GeoGebra
-description: a project with a background image
-img: /assets/img/12.jpg
+description: GeoGebra based applets to do UG laboratory experiments in electricity.
+img: /assets/img/applet.jpg
 importance: 1
 category: work
 ---
+
+Covid 19 pandemic posed various challenges, in teaching, learning and evaluation, particularly due to the social distancing restrictions. Virtual lab solutions appear to offer a potential solution, but have few inherent difficulties, which make them less ideal to be used in a classroom setting. Such difficulties  can be overcome by making use of GeoGebra applets, to do virtual experiments. GeoGebra applets are usable with a basic mobile phone browser, light, easily accessible and free.  Several GeoGebra applets were developed to perform UG lab experiments. Such applets have the potential to provide rich learning experience to the students.
+
+The applets are listed <a href="[http://www.shcollege.ac.in/](https://sites.google.com/view/geogebra-experiments/electricity-experiments?authuser=0)" target="_blank">listed here</a>,
+
 I am a faculty member at Department of Physics of <a href="http://www.shcollege.ac.in/" target="_blank">Sacred Heart College</a>, Thevara, Kochi, India, where I teach UG and PG students.
 
 Every project has a beautiful feature showcase page.
