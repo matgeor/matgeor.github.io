@@ -11,7 +11,7 @@ Covid 19 pandemic posed various challenges, in teaching, learning and evaluation
 
 The applets are <a href="https://sites.google.com/view/geogebra-experiments/electricity-experiments?authuser=0" target="_blank">listed here</a>.
 
-This activity was selected for the 'award in teacher category' of <a href="https://www.indapt.org/docs/noticeboard/results-ncicp-2022.pdf#page=2" target="_blank">National Competition In Computational Physics 2022</a>, conducted by the <a href="https://www.indapt.org/" target="_blank">Indian Association Of Physics Teachers</a> .
+This activity was selected for the `award in teacher category` of <a href="https://www.indapt.org/docs/noticeboard/results-ncicp-2022.pdf#page=2" target="_blank">National Competition In Computational Physics 2022</a>, conducted by the <a href="https://www.indapt.org/" target="_blank">Indian Association Of Physics Teachers</a> .
 
 
 
