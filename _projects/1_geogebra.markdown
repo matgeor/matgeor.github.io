@@ -2,7 +2,7 @@
 layout: page
 title: Physics With GeoGebra
 description: GeoGebra applets to do UG laboratory experiments in electricity.
-img: /assets/img/applet.jpg
+img: /assets/img/geogebra.jpg
 importance: 1
 category: work
 ---
