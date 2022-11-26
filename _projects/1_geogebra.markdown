@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
+title: Physics With GeoGebra
 description: a project with a background image
 img: /assets/img/12.jpg
 importance: 1
 category: work
 ---
+I am a faculty member at Department of Physics of <a href="http://www.shcollege.ac.in/" target="_blank">Sacred Heart College</a>, Thevara, Kochi, India, where I teach UG and PG students.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
